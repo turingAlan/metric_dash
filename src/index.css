@@ -1,0 +1,16 @@
+.json-viewer::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgb(40, 44, 53);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #5c5959;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
