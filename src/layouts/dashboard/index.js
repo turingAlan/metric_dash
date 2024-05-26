@@ -124,7 +124,7 @@ function Dashboard() {
             <Grid item xs={12} md={6} xl={3}>
               <MiniStatisticsCard
                 title={{ text: "Data Ingested", fontWeight: "regular" }}
-                count={(43+(timeDiffInSeconds-initialTime)/10)+" Gb"}
+                count={(43+(timeDiffInSeconds-initialTime)/10)+" Mb"}
                 // percentage={{ color: "success", text: "+55%" }}
                 icon={{ color: "info", component: <MdDataObject size="22px" color="white" /> }}
               />
