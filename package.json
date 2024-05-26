@@ -5,7 +5,7 @@
 	"author": "sellersetu",
 	"license": "See license in https://www.creative-tim.com/license",
 	"description": "Data as a service metrics dashboard",
-	"homepage": "https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard",
+	"homepage": ".",
 	"bugs": {
 		"url": "https://github.com/creativetimofficial/vision-ui-dashboard-react/issues"
 	},
